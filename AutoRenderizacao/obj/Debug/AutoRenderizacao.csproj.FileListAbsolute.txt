@@ -1,0 +1,11 @@
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\bin\Debug\AutoRenderizacao.exe.config
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\bin\Debug\AutoRenderizacao.exe
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\bin\Debug\AutoRenderizacao.pdb
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\obj\Debug\AutoRenderizacao.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\obj\Debug\AutoRenderizacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\obj\Debug\AutoRenderizacao.Form1.resources
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\obj\Debug\AutoRenderizacao.Properties.Resources.resources
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\obj\Debug\AutoRenderizacao.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\obj\Debug\AutoRenderizacao.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\obj\Debug\AutoRenderizacao.exe
+C:\Users\unisanta\source\repos\AutoRenderizacao\AutoRenderizacao\obj\Debug\AutoRenderizacao.pdb
