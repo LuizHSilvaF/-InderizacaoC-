@@ -69,13 +69,14 @@
             // 
             // btnSalvar
             // 
+            this.btnSalvar.BackColor = System.Drawing.Color.Red;
             this.btnSalvar.Font = new System.Drawing.Font("Microsoft YaHei UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSalvar.Location = new System.Drawing.Point(287, 60);
             this.btnSalvar.Name = "btnSalvar";
             this.btnSalvar.Size = new System.Drawing.Size(138, 84);
             this.btnSalvar.TabIndex = 6;
             this.btnSalvar.Text = "Salvar";
-            this.btnSalvar.UseVisualStyleBackColor = true;
+            this.btnSalvar.UseVisualStyleBackColor = false;
             this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
             // 
             // Form1
