@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luiz.fernandes\\-InderizacaoC-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3466FC-1270-40D4-832B-B4F4861DB6EE}|AutoRenderizacao\\AutoRenderizacao.csproj|c:\\users\\luiz.fernandes\\-inderizacaoc-\\autorenderizacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3466FC-1270-40D4-832B-B4F4861DB6EE}|AutoRenderizacao\\AutoRenderizacao.csproj|solutionrelative:autorenderizacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3466FC-1270-40D4-832B-B4F4861DB6EE}|AutoRenderizacao\\AutoRenderizacao.csproj|C:\\Users\\luiz.fernandes\\-InderizacaoC-\\autorenderizacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3466FC-1270-40D4-832B-B4F4861DB6EE}|AutoRenderizacao\\AutoRenderizacao.csproj|solutionrelative:autorenderizacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3466FC-1270-40D4-832B-B4F4861DB6EE}|AutoRenderizacao\\AutoRenderizacao.csproj|C:\\Users\\luiz.fernandes\\-InderizacaoC-\\autorenderizacao\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3466FC-1270-40D4-832B-B4F4861DB6EE}|AutoRenderizacao\\AutoRenderizacao.csproj|solutionrelative:autorenderizacao\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luiz.fernandes\\-InderizacaoC-\\AutoRenderizacao\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoRenderizacao\\Form1.cs",
+              "ToolTip": "C:\\Users\\luiz.fernandes\\-InderizacaoC-\\AutoRenderizacao\\Form1.cs [Design]",
+              "RelativeToolTip": "AutoRenderizacao\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:53:34.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\luiz.fernandes\\-InderizacaoC-\\AutoRenderizacao\\Produto.cs",
+              "RelativeDocumentMoniker": "AutoRenderizacao\\Produto.cs",
+              "ToolTip": "C:\\Users\\luiz.fernandes\\-InderizacaoC-\\AutoRenderizacao\\Produto.cs",
+              "RelativeToolTip": "AutoRenderizacao\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:53:33.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\luiz.fernandes\\-InderizacaoC-\\AutoRenderizacao\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoRenderizacao\\Form1.cs",
+              "ToolTip": "C:\\Users\\luiz.fernandes\\-InderizacaoC-\\AutoRenderizacao\\Form1.cs",
+              "RelativeToolTip": "AutoRenderizacao\\Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAEwFwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:53:33.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

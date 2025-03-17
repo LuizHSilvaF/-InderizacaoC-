@@ -59,6 +59,15 @@ namespace AutoRenderizacao
                 Size = new Size(135, 80)
             };
 
+            DataGridView listaData = new DataGridView
+            {
+                Name = "dataGridView1",
+                Location = new Point(100, 300),
+                Size = new Size(300, 200),
+                ColumnCount = 4
+            };
+            this.Controls.Add(listaData);
+
             btnCadastrar.Click += (s, e) =>
             {
                 String nome = txtNome.Text;
@@ -66,9 +75,22 @@ namespace AutoRenderizacao
                 int qtd = int.Parse(txtQtd.Text);
                 String desc = txtDescricao.Text;
 
-                Produto prod = new Produto(nome, preco, qtd, desc);
-                double valorEstoque = prod.calcularEstoque();
-                MessageBox.Show($"Produto {nome} cadastrado, valor em estoque: {valorEstoque}");
+
+                Produto produto = new Produto(nome, preco, qtd, desc);
+                MessageBox.Show($"Produto {nome} cadastrado, valor em estoque: {produto.calcularEstoque()}");
+
+                List<Produto> lista = new List<Produto>();
+                lista.Add(produto);
+
+                listaData.Columns[0].Name = "Nome";
+                listaData.Columns[1].Name = "Preço";
+                listaData.Columns[2].Name = "Quantidade";
+                listaData.Columns[3].Name = "Descrição";
+
+                foreach (Produto p in lista)
+                {
+                    listaData.Rows.Add(p.Nome, p.Preco, p.Quantidade, p.Descricao);
+                }
             };
 
             this.Controls.Add(btnCadastrar);
